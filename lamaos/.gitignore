@@ -1,0 +1,16 @@
+*.o
+*.dis
+*.bin
+lama-os
+build/
+.vscode/
+TODO
+*.elf
+*.iso
+stage2_eltorito
+*.a
+bochs*.*
+*.ini
+.gdbinit
+.idea/
+.exe
