@@ -1,4 +1,3 @@
-2024,GALIP-DROID 1.1.1
+2024,LAMA-OS RV1
 
-Bu Bir Test Sürümüdür,İstenilen Yerde Satılabilir-Dağıtılabilir,Açık Kaynak Kodlu Olduğu İçin Bütün Hakları Açıktır.
-
+BÜTÜN HAKLARI AÇIKTIR.
